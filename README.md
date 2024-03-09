@@ -1,4 +1,4 @@
-# Numerical-methods-and-programming
+# Numerical methods and programming
 
 ## Laboratory work on this subject:
 
