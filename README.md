@@ -14,5 +14,5 @@
 
 6. [Approximate differentiation](https://github.com/Sviatoslav1886/Numerical_methods_and_programming/blob/main/approximate_differentiation.ipynb). The method of approximate divergence using an interpolation Newton polynomial to find the first and second derivatives for given values of the argument for a function. Find the first and second derivatives for the given values of the argument for function by graphical differentiation.
 7. [Close integration.](https://github.com/Sviatoslav1886/Numerical_methods_and_programming/blob/main/close_integration.ipynb) Methods: Left, right, and middle rectangle method, Monte Carlo method, Simpson method, and double recalculation method to calculate the value of a given integral.
-8. [Approximate methods for solving ordinary differential equations]() soon
+8. [Approximate methods for solving ordinary differential equations](https://github.com/Sviatoslav1886/Numerical_methods_and_programming/blob/main/approximate_methods_solving_differential_equations.ipynb). Methods: Euler method, Runge-Kutta method, Adams method, Milne method 
 9. [Methods for solving problems of linear programming and optimization problems]() soon
